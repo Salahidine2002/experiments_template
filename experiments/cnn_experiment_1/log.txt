@@ -1,0 +1,21 @@
+2024-12-13 23:42:39,897 - INFO - Experiment setup completed for cnn_experiment_1. Logs saved to experiments/cnn_experiment_1/log.txt
+2024-12-13 23:43:01,973 - INFO - Epoch 0, Batch 0, Loss: 2.3028, Train Accuracy: 7.8125, Validation Accuracy: 10.0000
+2024-12-13 23:43:25,925 - INFO - Epoch 0, Batch 100, Loss: 1.8495, Train Accuracy: 33.6634, Validation Accuracy: 43.1900
+2024-12-13 23:43:49,770 - INFO - Epoch 0, Batch 200, Loss: 1.6430, Train Accuracy: 40.4773, Validation Accuracy: 52.7000
+2024-12-13 23:44:13,579 - INFO - Epoch 0, Batch 300, Loss: 1.5247, Train Accuracy: 44.9647, Validation Accuracy: 57.0700
+2024-12-13 23:44:37,330 - INFO - Epoch 0, Batch 400, Loss: 1.4428, Train Accuracy: 47.9972, Validation Accuracy: 58.2100
+2024-12-13 23:45:01,049 - INFO - Epoch 0, Batch 500, Loss: 1.3759, Train Accuracy: 50.5115, Validation Accuracy: 61.0700
+2024-12-13 23:45:24,679 - INFO - Epoch 0, Batch 600, Loss: 1.3228, Train Accuracy: 52.5894, Validation Accuracy: 63.4500
+2024-12-13 23:45:48,424 - INFO - Epoch 0, Batch 700, Loss: 1.2793, Train Accuracy: 54.1169, Validation Accuracy: 64.4800
+2024-12-13 23:46:04,011 - INFO - Saved checkpoint at epoch 0 to experiments/cnn_experiment_1/checkpoints/checkpoint_epoch_0.pth
+2024-12-13 23:46:04,128 - INFO - Saved best model at epoch 0 with loss 1.2516 to experiments/cnn_experiment_1/checkpoints/best_model.pth
+2024-12-13 23:46:24,587 - INFO - Epoch 1, Batch 0, Loss: 0.9381, Train Accuracy: 70.3125, Validation Accuracy: 65.6900
+2024-12-13 23:46:48,574 - INFO - Epoch 1, Batch 100, Loss: 0.8161, Train Accuracy: 71.2871, Validation Accuracy: 62.6700
+2024-12-13 23:47:12,559 - INFO - Epoch 1, Batch 200, Loss: 0.8285, Train Accuracy: 70.7945, Validation Accuracy: 66.4300
+2024-12-13 23:47:36,492 - INFO - Epoch 1, Batch 300, Loss: 0.8266, Train Accuracy: 70.9250, Validation Accuracy: 67.3000
+2024-12-13 23:48:00,386 - INFO - Epoch 1, Batch 400, Loss: 0.8158, Train Accuracy: 71.3061, Validation Accuracy: 67.7700
+2024-12-13 23:48:24,185 - INFO - Epoch 1, Batch 500, Loss: 0.8158, Train Accuracy: 71.3043, Validation Accuracy: 68.5000
+2024-12-13 23:48:47,996 - INFO - Epoch 1, Batch 600, Loss: 0.8136, Train Accuracy: 71.3576, Validation Accuracy: 68.6800
+2024-12-13 23:49:11,774 - INFO - Epoch 1, Batch 700, Loss: 0.8089, Train Accuracy: 71.5674, Validation Accuracy: 69.8200
+2024-12-13 23:49:27,340 - INFO - Saved checkpoint at epoch 1 to experiments/cnn_experiment_1/checkpoints/checkpoint_epoch_1.pth
+2024-12-13 23:49:27,406 - INFO - Saved best model at epoch 1 with loss 0.8059 to experiments/cnn_experiment_1/checkpoints/best_model.pth

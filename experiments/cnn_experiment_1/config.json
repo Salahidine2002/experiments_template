@@ -1,0 +1,7 @@
+{
+    "experiment_name": "cnn_experiment_1",
+    "log_file_name": "log.txt",
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "epochs": 2
+}
